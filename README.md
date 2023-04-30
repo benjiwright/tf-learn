@@ -1,14 +1,17 @@
 # Learning Terranform 
 
-Using a [tutorial](https://youtu.be/SLB_c_ayRMo) this time.
+Using a this hello world [tutorial](https://youtu.be/SLB_c_ayRMo). Let's create a public facing webserver.
 
-## Shit done so far
 
-- [ ] Setup Ubuntu 22 TLS dev machine
-  - [ ] git
-  - [ ] ohmyzsh with plugins
-  - [ ] aws cli
-  - [ ] vscode extensions
-  - [ ] docker
-  - [ ] terraform
 
+## Setup for new machine
+
+- [x] ubuntu wsl2 (sorry, I'm on Windows)
+- [x] git
+- [x] ohmyzsh with plugins
+- [x] aws cli
+- [x] vscode extensions
+- [x] terraform
+
+
+Next step: [HashiCorp Terraform Associate Certification Course](https://youtu.be/V4waklkBC38).
