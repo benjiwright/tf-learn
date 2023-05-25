@@ -24,11 +24,13 @@ Next step: [HashiCorp Terraform Associate Certification Course](https://youtu.be
 
 Fully managed resource for data streaming.
 
+```mermaid
 ---
-title: "Kinesis "
+title: "Kinesis Multiplicity"
 ---
 graph LR
     A[Stream] -->|has many| B(Shard)
     B --> |has many| C(Record)
     C --> |has many| D(Data)
     C --> |by partition| B
+```
