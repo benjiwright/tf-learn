@@ -34,3 +34,6 @@ graph LR
     C --> |has many| D(Data)
     C --> |by partition| B
 ```
+## AWS Kinesis Firehose 
+
+Easiest way to load a data stream into a data store or analytic tool like S3, Redshift, Elasticsearch, Splunk, dashboards, etc. A fully managed service that auto scales. It can batch, compress, encrypt data all before loading it to minimize storage. 
